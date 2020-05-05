@@ -1,0 +1,3 @@
+[submodule "CareAssist-Wearable-Interface"]
+	path = CareAssist-Wearable-Interface
+	url = https://github.com/HunterM417/CareAssist-Wearable-Interface.git
