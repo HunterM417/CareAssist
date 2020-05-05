@@ -1,6 +1,6 @@
 # Care Assist Contributing Guide #
 
-TODO: A blurb about the project and its goals.
+Our project is meant to assist caretakers in their pursuit of health and wellness for geriatric patients.
 
 ## Getting Started ##
 
