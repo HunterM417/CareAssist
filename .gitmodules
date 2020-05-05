@@ -1,3 +1,6 @@
 [submodule "CareAssist-Wearable-Interface"]
 	path = CareAssist-Wearable-Interface
 	url = https://github.com/HunterM417/CareAssist-Wearable-Interface.git
+[submodule "CareAssist-Web-Interface"]
+	path = CareAssist-Web-Interface
+	url = https://github.com/Pape98/CareAssist-Web-Interface.git
