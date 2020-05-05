@@ -6,3 +6,5 @@ This is our "master repo," with two submodules.  The Web Interface and the Weara
 ## Contributing
 Please see our [Contributing Guide](CONTRIBUTING.md)
 
+## Wiki
+For an expanded look into our project, please see our [Wiki](https://github.com/HunterM417/CareAssist/wiki)
